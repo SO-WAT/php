@@ -1,0 +1,178 @@
+body {
+    padding: 5px;
+    margin: 0;
+    background-color: #FFF;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+}
+
+form {
+    border: 3px solid #f1f1f1;
+    max-width: 600px;
+    margin: 0 auto;
+
+}
+
+input[type=text],
+input[type=email],
+input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+.Regbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #0077c8;
+}
+
+
+.error_message {
+    color: red;
+    padding-bottom: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.success_message {
+    color: green;
+    padding-bottom: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.container {
+    padding: 16px;
+}
+
+@media screen and (max-width: 300px) {
+    span.psw {
+        display: block;
+        float: none;
+    }
+    .Regbtn {
+        width: 100%;
+    }
+}
+Completed.
+
+Download the PHP code of login and registration System
+
+
+
+How to create PHP CRUD application with MySQL DB?
+
+How to Create a Friend request system in PHP?
+
+PHP Captcha code verification tutorial
+
+Ezoicreport this ad
+Search
+Recent Posts
+Node js Login and Registration REST API with MySQL DB
+Install MongoDB on Ubuntu and Windows 10
+Install Node JS on Ubuntu and Windows 10
+Node JS Form Handling: GET, POST Requests, Form Data Validation
+PHP Loops: While, Do While, For, ForEach Loop
+
+Ezoicreport this ad
+Categories
+API
+htaccess
+HTML
+HTML & CSS
+JavaScript
+jQuery
+MongoDB
+Node JS
+Node JS Projects
+PHP
+PHP + MySQL Database
+PHP API
+PHP Projects
+PHP Tutorial
+React JS
+UI
+Ui Components
+Vue.JS Tutorial
+WordPress
+WordPress For Beginners
+WordPress Tutorial
+
+Ezoicreport this ad
+
+Ezoicreport this ad
+Related Posts
+PHP Loops: While, Do While, For, ForEach Loop
+PHP Loops: While, Do While, For, ForEach Loop
+September 30, 2020
+What is PHP Array? Explained for Beginners
+September 19, 2020
+PHP Function Tutorial
+What is PHP Function? Explained for Beginners
+September 16, 2020
+4 Comments
+  Pietro
+  Pietro
+  FEB 16, 2021 / 2:10 AM
+                      REPLY
+                      excellent this is good work!
+
+                      Mustefa Mohammed
+                      Mustefa Mohammed
+                      MAR 29, 2021 / 4:03 PM
+                                          REPLY
+                                          thnks good work
+
+                                          As | Webdev
+                                          As | Webdev
+                                          NOV 5, 2021 / 7:30 AM
+                                                             REPLY
+                                                             How to add forgot password option in this page ??
+
+Chandan Tudu
+Chandan Tudu
+NOV 6, 2021 / 6:14 PM
+                   I will add this tutorial soon.
+
+                   Leave a Reply
+                   Name
+                   *
+                   Email
+                   *
+                   Add Comment
+                   Save my name, email, and website in this browser for the next time I comment.
+
+I accept the Privacy Policy*
+
+Ezoicreport this ad
+ABOUT
+PRIVACY
+CONTACT
+SITEMAP
+Copyright © 2022 w3jar.com
+
